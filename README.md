@@ -26,3 +26,7 @@ Kochapon (Belle) Ussavaphark
 ## Link to live version
 
 https://belle-kochapon.github.io/catquiz/
+
+## Read more about my development journey
+
+https://bellekochapon.wordpress.com/2025/03/02/cat-quiz-project/
